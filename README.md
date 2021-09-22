@@ -4,4 +4,4 @@ simple app to invoice businesses for stealing your time --- TimeVoices.com  ---
 <br></br>
 first seven questions to generate & send invoice 
 <br></br>
-<img width="518" alt="Screen Shot 2021-09-22 at 12 12 54 AM" src="https://user-images.githubusercontent.com/45616838/134292095-a449ddba-62b0-4c25-a3bb-ca21bc7698e3.png">
+<img width="620" alt="Screen Shot 2021-09-22 at 12 15 38 AM" src="https://user-images.githubusercontent.com/45616838/134292386-bfdbc449-316d-4cc1-bf02-bbaf170cde81.png">
